@@ -1,8 +1,6 @@
 # NLP-Handson
 This repository contains:
 
-Mini project Review 2
-
   1)Word to vector embedding
   2)Chunking using NLTK
   3)Chunking using spaCy
